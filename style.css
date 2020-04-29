@@ -61,6 +61,14 @@ header {
     min-height: 100vh;
     background: #2B3F58;
 }
+
+
+/* ------------------$addClass */
+.hamburger-menu-visible {
+    display: block;
+}
+
+
 .hamburger-menu ul {
     display: flex;
     height: 100%;
